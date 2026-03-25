@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/proactive-maintenance-management-system-2324-2335/maintenance_backend_api"
+}
